@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1647535161637" clover="3.2.0">
-  <project timestamp="1647535161637" name="All files">
+<coverage generated="1647535371533" clover="3.2.0">
+  <project timestamp="1647535371533" name="All files">
     <metrics statements="45" coveredstatements="45" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="9" elements="74" coveredelements="74" complexity="0" loc="45" ncloc="45" packages="1" files="5" classes="5"/>
     <file name="config.js" path="/home/ruth/Documents/Nodejs/js-expert-6/server/config.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
